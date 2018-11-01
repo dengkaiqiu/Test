@@ -2,6 +2,6 @@
 
 void main()
 {
-    printf("Hello the world!.\n");
+    printf("Hello the world,This is Clone.!.\n");
     getchar();
 }
